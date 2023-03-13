@@ -1,0 +1,8 @@
+C:\Users\sha pc\Desktop\ceaser\ceaser\bin\Debug\ceaser.exe.config
+C:\Users\sha pc\Desktop\ceaser\ceaser\bin\Debug\ceaser.exe
+C:\Users\sha pc\Desktop\ceaser\ceaser\bin\Debug\ceaser.pdb
+C:\Users\sha pc\Desktop\ceaser\ceaser\obj\Debug\ceaser.csproj.AssemblyReference.cache
+C:\Users\sha pc\Desktop\ceaser\ceaser\obj\Debug\ceaser.csproj.SuggestedBindingRedirects.cache
+C:\Users\sha pc\Desktop\ceaser\ceaser\obj\Debug\ceaser.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\Desktop\ceaser\ceaser\obj\Debug\ceaser.exe
+C:\Users\sha pc\Desktop\ceaser\ceaser\obj\Debug\ceaser.pdb
